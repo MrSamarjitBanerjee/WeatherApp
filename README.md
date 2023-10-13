@@ -36,6 +36,8 @@ Since this is a web application, there is no need for installation. Users can ac
 If you encounter any issues while using the Weather App or have suggestions for improvement, please feel free to report them in the "Issues" section of our GitHub repository. Your feedback is valuable, and we appreciate your contribution to making our app better.
 
 🙌 Contributors
+
 This Weather App was created and maintained by Samarjit Banerjee.
+
 
 Thank you for using our Weather App! We hope it provides you with accurate and reliable weather information whenever you need it. Stay updated and stay safe!
