@@ -16,7 +16,7 @@ Accessing the App: Simply open the Weather App in any web browser. The interface
 
 📌 Searching for Weather:
 
-Enter the name of the city or the geographical coordinates (latitude and longitude) of the location you want to know the weather for.
+Enter the name of the city of the location you want to know the weather for.
 Click the "Search" button or press "Enter" to get the weather details for the specified location.
 Viewing Weather Details:
 
